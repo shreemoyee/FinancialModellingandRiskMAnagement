@@ -1,4 +1,4 @@
-In this notebook I have implemented the multi-period bionomial model and use it for - 
+In this series of notebooks I have implemented the multi-period bionomial model and use it for - 
 
 1. Pricing European options.
 2. Finding the right time to excecute American put options (it is never optimal to excercise an American call option early.)
