@@ -6,8 +6,11 @@ In this series of notebooks I have implemented the multi-period bionomial model 
 As an extension, I use Black-scholes model for calibrating the multi-period bionomial tree.
 
 In the next series, I intend to price the following fixed income derivatives,
-
-1. Zero coupon bonds
-2. Options on bonds
-3. Bonds futures and forwards
-4. Swaps and swapsons
+ZeroCouponBonds.ipnyb contains, 
+  1. Zero coupon bonds
+  2. Options on bonds
+  3. Bonds futures and forwards
+Swaps.ipnyb contains
+  1. Caplets and floorlets
+  2. Swaps and swapsons
+  3. Forward equations
